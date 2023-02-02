@@ -19,3 +19,9 @@ Terceira parte do desafio:
 - Nesse desafio você deverá utilizar o padrão notification em nossa entidade Products. Não deixe de realizar os testes automatizados.
 
 - Adicione um teste que acumule dois erros ao mesmo tempo. 
+
+Quarta parte do desafio:
+
+- Agora que aprendemos a criar o processo de validação, bem como minimizar o acoplamento em nosso domínio, você deverá realizar o processo de validação na entidade Product seguindo o mesmo processo.
+
+- OBS: Não deixe de verificar se todos os testes ainda estão passando.
